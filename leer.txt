@@ -1,0 +1,5 @@
+Tener instalado node.js para la ejecucion del programa.
+
+Antes del correr el programa ejecutar "npm i", en la consola de visual code para que se instalen los modulos del sistema
+
+luego correr con npm run dev
